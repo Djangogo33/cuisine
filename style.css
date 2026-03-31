@@ -1,6 +1,0 @@
-.font-heading { font-family: 'DM Serif Display', serif; }
-.font-body { font-family: 'Nunito', sans-serif; }
-.recipe-card { background: #251e17; border-radius: 1.5rem; padding: 2rem; cursor: pointer; transition: 0.3s; border: 1px solid #3d3026; }
-.recipe-card:hover { transform: translateY(-5px); border-color: #e85720; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
-.ing-card { background: #251e17; padding: 1.2rem; border-radius: 1rem; color: #f5e6d3; border-left: 4px solid #e85720; }
-.cat-title { color: #a08872; font-weight: bold; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 0.1em; margin-bottom: 0.5rem; margin-top: 1.5rem; }
